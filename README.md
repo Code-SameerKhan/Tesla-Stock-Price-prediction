@@ -15,4 +15,6 @@ The dataset used consists of closing price of Tesla stock for 5 years. It has fo
 * Closing Price
 * Volume Traded
 
-![](Visuals/last_5_yr_closing_price.png)
+![](Visuals/last_5_yr_closing_price.png) ![](Visuals/last_5_yr_vol_trade.png)
+
+
