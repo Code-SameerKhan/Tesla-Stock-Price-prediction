@@ -5,7 +5,7 @@ Using Time - Series Analysis predicting Tesla Stock Closing price
 
 The objective in this project was to calculate Closing price of Tesla Stock using Time Series Analysis
 
-# Datset
+# Dataset
 
 The dataset used consists of closing price of Tesla stock for 5 years. It has following features-
 
