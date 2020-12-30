@@ -17,4 +17,12 @@ The dataset used consists of closing price of Tesla stock for 5 years. It has fo
 
 ![](Visuals/last_5_yr_closing_price.png) ![](Visuals/last_5_yr_vol_trade.png)
 
+# Data visualization
+
+In this process we need to identify the lag parameters which may show charaterstic correlation.
+
+![](Visuals/daily_fluctuations.png)
+
+We can see that daily fluctuation of this stock is 15%
+
 
