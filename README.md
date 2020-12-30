@@ -25,4 +25,6 @@ In this process we need to identify the lag parameters which may show charaterst
 
 We can see that daily fluctuation of this stock is 15%
 
+![](Visuals/daily_return.png)
+
 
