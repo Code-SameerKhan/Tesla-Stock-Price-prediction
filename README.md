@@ -23,8 +23,17 @@ In this process we need to identify the lag parameters which may show charaterst
 
 ![](Visuals/daily_fluctuations.png)
 
-We can see that daily fluctuation of this stock is 15%
+* We can see that daily fluctuation of this stock is 15%
+* Daily fluctuation of stock normal distribution is between +-2 %
 
 ![](Visuals/daily_return.png)
 
+# Applying Monte Carlo Simulation
 
+* A Monte Carlo simulation is a model used to predict the probability of different outcomes when the intervention of random variables is present.
+* Monte Carlo simulations help to explain the impact of risk and uncertainty in prediction and forecasting models.
+* A variety of fields utilize Monte Carlo simulations, including finance, engineering, supply chain, and science.
+* The basis of a Monte Carlo simulation involves assigning multiple values to an uncertain variable to achieve multiple results and then to average the results to obtain an estimate.
+* Monte Carlo simulations assume perfectly efficient markets.
+
+![](Visuals/monte_carlo_simulations.png)
