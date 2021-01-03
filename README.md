@@ -48,3 +48,19 @@ In statistics, the Dickey–Fuller test tests the null hypothesis that a unit ro
 The alternative hypothesis is different depending on which version of the test is used, but is usually stationarity or trend-stationarity.
 
 ![](Visuals/dickey_fuller_test.png)
+
+Shifting the series and creating lag values, we can see the series is stationary.
+
+![](Visuals/new_dickey.png)
+
+# Statistical Model- SARIMAX (The Seasonal Autoregressive Integrated Moving Average eXogenous Model)
+
+* The SARIMAX is the seasonal equivalent of the ARIMAX model.
+* Seasonal models help capture patterns which aren’t ever-present but appear periodically.
+* The first 3 of these 4 orders are just seasonal versions of the ARIMA orders.
+* A seasonal autoregressive order denoted by upper-case P, an order of seasonal integration denoted by upper-case D, and a seasonal moving average order signified 
+by upper-case Q.
+
+# Prediction through SARIMAX model
+
+![](Visuals/sarimax_pred.png)
