@@ -37,3 +37,7 @@ In this process we need to identify the lag parameters which may show charaterst
 * Monte Carlo simulations assume perfectly efficient markets.
 
 ![](Visuals/monte_carlo_simulations.png)
+
+![](Visuals/1_yr_pred_simple_lag.png)
+
+365 days prediction based on Monte-Carlo Simulation
