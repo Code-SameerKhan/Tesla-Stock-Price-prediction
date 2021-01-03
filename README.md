@@ -41,3 +41,10 @@ In this process we need to identify the lag parameters which may show charaterst
 ![](Visuals/1_yr_pred_simple_lag.png)
 
 365 days prediction based on Monte-Carlo Simulation
+
+# Series Stationary Analysis
+
+In statistics, the Dickey–Fuller test tests the null hypothesis that a unit root is present in an autoregressive model. 
+The alternative hypothesis is different depending on which version of the test is used, but is usually stationarity or trend-stationarity.
+
+![](Visuals/dickey_fuller_test.png)
